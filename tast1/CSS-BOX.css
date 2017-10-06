@@ -1,0 +1,15 @@
+.boxstyle{
+  border-radius:10%;
+  width:31.3%;
+  height:31.3vw;
+  margin:1%;
+  padding:0%;
+  border:0px;
+  background-color:orange; 
+  float: left;
+}
+
+.bodystyle {
+  width:100%;
+  display:block;
+}
